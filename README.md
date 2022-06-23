@@ -2,7 +2,7 @@
 
 
 ## Food Ordering & Delivery App UI in Flutter
-<img src="screens/full_ui.png"  />
+<img src="screenshots/full_ui.png"  />
 
 ## ScreenShots
 ### Home Page
